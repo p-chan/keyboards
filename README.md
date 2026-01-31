@@ -4,6 +4,6 @@
 
 ## Recipes
 
-| Keyboard                               | Keymap                           | Image                                   |
-| :------------------------------------- | :------------------------------- | :-------------------------------------- |
-| [Tofu60](./keyboards/tofu60/README.md) | [dz60](./keymaps/dz60/README.md) | ![Tofu60](./keyboards/tofu60/image.jpg) |
+| Hardware                              | Firmware                         | Image                                  |
+| :------------------------------------ | :------------------------------- | :------------------------------------- |
+| [Tofu60](./hardware/tofu60/README.md) | [dz60](./qmk_firmware/keyboards/dz60/keymaps/p-chan/README.md) | ![Tofu60](./hardware/tofu60/image.jpg) |
